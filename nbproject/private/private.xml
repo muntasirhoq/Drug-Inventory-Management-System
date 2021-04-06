@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/db/DataAccess.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/SearchMedicine.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/ShipmentAddItem.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/SearchInventory.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/SearchByMedicineName.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/ViewWorker.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/CompanyDue.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/AddWorker.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/SearchByCompanyName.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/SearchMedicine3.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/SearchByMedicineName.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/Inventory.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/Shipment.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/Client.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewInventory.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewCompanyDue.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/SearchInventoryByGenericName.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/CreateAccount.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/SearchInventoryByMedicineName.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/SearchByGenericName.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/Company.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/ShipmentInvoice.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/Worker.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/DeleteClient.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/AddWorker.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewAllWorker.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ShipmentAddItem.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewAllCompany.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/SearchMedicine1.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/CompanyDue.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/PurchaseAddItem.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/ViewCompany.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewInventoryByGenericName.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewClient.jsp</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/src/java/DI/servlets/Shipment.java</file>
+            <file>file:/D:/L-3%20T-1/CSE%20304/Project/DrugInventory/DrugInventory-war/web/ViewInventoryByMedicineName.jsp</file>
+        </group>
+    </open-files>
+</project-private>
